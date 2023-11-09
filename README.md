@@ -1,4 +1,4 @@
-# ODD2023-Datascience-Ex-04
+# EX-04 MULTIVARIATE ANALYSIS
 ## AIM:
 To perform Multivariate EDA on the given data set.
 
